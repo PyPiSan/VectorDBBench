@@ -1,0 +1,11 @@
+*.sw[op]
+*.egg-info
+dist/
+__pycache__
+.env
+.data/
+__MACOSX
+.DS_Store
+build/
+venv/
+.idea/
