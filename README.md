@@ -1,5 +1,7 @@
 # VectorDBBench: A Benchmark Tool for VectorDB
 
+This is a forked version and configured to run locally instead of cloud.
+
 [![version](https://img.shields.io/pypi/v/vectordb-bench.svg?color=blue)](https://pypi.org/project/vectordb-bench/)
 [![Downloads](https://pepy.tech/badge/vectordb-bench)](https://pepy.tech/project/vectordb-bench)
 
